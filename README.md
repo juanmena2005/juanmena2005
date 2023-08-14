@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juanmena2005
-- 👀 I’m interested in porogramation 
-- 🌱 I’m currently learning web desing 
-- 💞️ I’m looking to collaborate on any proyect
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning web designer 
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me menerres@gmail.com 
 
 <!---
